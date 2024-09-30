@@ -21,8 +21,9 @@ Web yang saya buat ini adalah sebuah buku tamu digital
 
 
 
-### ERD
-![ERD](https://github.com/(namauser)/(namarepo)/blob/main/erd.png.png)
+### ERD!
+
+![ERD](Screenshot 2024-09-30 142119](https://github.com/user-attachments/assets/3e96a5ae-3729-4a3f-b83a-7a4bda30cd0f)
 
 ### UML
 ![UML](https://raw.githubusercontent.com/adityape71/bukutamudit/refs/heads/main/uml.png)
