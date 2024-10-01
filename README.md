@@ -26,7 +26,7 @@ Web yang saya buat ini adalah sebuah buku tamu digital
 ![ERD](https://github.com/user-attachments/assets/3e96a5ae-3729-4a3f-b83a-7a4bda30cd0f)
 
 ### UML
-![UML](https://raw.githubusercontent.com/adityape71/bukutamudit/refs/heads/main/uml.png)
+![UML](https://raw.githubusercontent.com/adityape71/bukutamudit/refs/heads/main/uml.dit.png)
 Tabel Failed_Jobs,
 Personal_access_tokens,
 Password_reset_tokens,migration di abaikan saja karena bawaan laravel
